@@ -12,5 +12,5 @@ function increaseRankBy(n) {
     lis[i].innerHTML = parseInt(lis[i].innerHTML) + n}
   }
  function deepestChild() {
-   
+   return document.querySelector
  }
